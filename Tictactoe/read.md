@@ -7,7 +7,7 @@
 4. Game -> Used for Initializing the Game with all its properties.
 
 ## Let’s now consider creating a Class Diagram which show relationshi b/w classes
-<imag src = "" width = "" height = "">
+![](images/class_dia_tictactoe.webp)
 
 # Cell entity
 A Cell is responsible for determining the symbol (‘X’ or ‘O’), and it’s further divided into two classes: CellX and CellO, both of which are subclasses of the Cell class means CellX and CellO is-a Cell class.
